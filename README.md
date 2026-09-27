@@ -1,4 +1,4 @@
-👋 Hi, I'm Aastha Kumari
+👋 Hi, I'm Aastha 
 
 BCA Graduate | Data Analyst | GenAI Enthusiast
 
@@ -21,8 +21,3 @@ Other: HTML • CSS • JavaScript
 🎯 My Approach
 
 I believe in learning by building — understanding the concepts behind a technology, applying them to practical problems, and continuously improving through hands-on projects.
-
-📫 Connect With Me
-
-💼 LinkedIn()  
-📧 Email()
