@@ -1,32 +1,28 @@
-👋 Hi, I'm Aastha
+👋 Hi, I'm Aastha Kumari
 
 BCA Graduate | Data Analyst | GenAI Enthusiast
 
-BCA graduate with hands-on experience in Data Analytics and a growing interest in Generative AI. I have completed a Data Analyst internship and worked on projects using **Excel, SQL, Python, Power BI, and DAX**.
-
-Currently, I am expanding my skills in Generative AI, Python, APIs, and AI application development by building practical projects such as AI chatbots and conversational AI applications.
+I’m passionate about turning data into insights and exploring how Generative AI can be used to build practical applications.
 
 🛠️ Skills
 
-- 📊 Data Analytics
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Power BI & DAX
-- 📑 Excel
-- 🤖 Generative AI
-- 🔌 API Integration
+Data & Analytics: SQL • Power BI • DAX • Excel  
+Programming: Python  
+AI: Generative AI • AI APIs • Prompt Engineering  
+Other: HTML • CSS • JavaScript
 
-📂 Projects
+🌱 Currently Exploring
 
-- 🏥 MediInsights Analytics — Healthcare Power BI Dashboard
-- 👥 HR Analytics — Employee & Attrition Analysis
-- 🛒 Retail Vision — Sales & Customer Analytics
-- 🤖 Gemini AI Chatbot
-- 🤖 OpenAI Chatbot
-- 🧠 OpenAI Chatbot with Conversation History
+- Generative AI & AI application development
+- LLM APIs and conversational AI
+- Data analysis and business intelligence
+- Building practical, real-world solutions
 
-🎯 Currently Learning
+🎯 My Approach
 
-Generative AI | AI Applications | Advanced Data Analytics
+I believe in learning by building — understanding the concepts behind a technology, applying them to practical problems, and continuously improving through hands-on projects.
 
-📫 Open to opportunities in Data Analytics and AI
+📫 Connect With Me
+
+💼 LinkedIn()  
+📧 Email()
