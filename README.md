@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Aastha
 
-<!--
-**aashukumarii3015-code/aashukumarii3015-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate | Data Analyst | GenAI Enthusiast
 
-Here are some ideas to get you started:
+BCA graduate with hands-on experience in Data Analytics and a growing interest in Generative AI. I have completed a Data Analyst internship and worked on projects using **Excel, SQL, Python, Power BI, and DAX**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am expanding my skills in Generative AI, Python, APIs, and AI application development by building practical projects such as AI chatbots and conversational AI applications.
+
+🛠️ Skills
+
+- 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Power BI & DAX
+- 📑 Excel
+- 🤖 Generative AI
+- 🔌 API Integration
+
+📂 Projects
+
+- 🏥 MediInsights Analytics — Healthcare Power BI Dashboard
+- 👥 HR Analytics — Employee & Attrition Analysis
+- 🛒 Retail Vision — Sales & Customer Analytics
+- 🤖 Gemini AI Chatbot
+- 🤖 OpenAI Chatbot
+- 🧠 OpenAI Chatbot with Conversation History
+
+🎯 Currently Learning
+
+Generative AI | AI Applications | Advanced Data Analytics
+
+📫 Open to opportunities in Data Analytics and AI
